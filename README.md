@@ -13,6 +13,11 @@ building data tools for a Collin County nonprofit.
 | Project | What it is | Tools |
 |---|---|---|
 | [Volunteer Check-In System — Meals on Wheels Collin County](meals-on-wheels-volunteer-checkin/) | Case study. A QR-code check-in web app that auto-assigns meal-delivery routes to volunteers and shows staff a live loading dashboard. Used by staff and volunteers on every delivery day, across 90+ routes. | Node.js, Express, SQLite, HTML/CSS/JS, Excel |
+| [Delivery QA Reporting Pipeline](https://hassamk28.github.io/hassamk/mowcc-delivery-qa.html) | Case study. Turned messy weekly exports covering about 200,000 meal stops into a consistent QA report and a Power BI model, and sorted routes into risk tiers. | Python, Excel, Power BI, Power Query, PowerPoint |
+| [Client Services KPI Model](https://hassamk28.github.io/hassamk/mowcc-kpi-dashboard.html) | Case study. An auditable, deduplicated KPI model and Power BI report for leadership, on the Oct–Sep fiscal year. | Excel, Power BI, DAX |
+| [City Impact Profiles](https://hassamk28.github.io/hassamk/mowcc-city-profiles.html) | Case study. Data-checked city presentations for meetings with mayors, generated from one template. | Excel, PowerPoint, JavaScript |
+
+_Meals on Wheels case studies contain no source code or real data. All images use made-up sample data._
 
 ## SQL
 
